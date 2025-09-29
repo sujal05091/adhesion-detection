@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "152954861659",
+    "project_id": "adhesion-ai",
+    "storage_bucket": "adhesion-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152954861659:android:50ac28a5d2a0aba2ffe77e",
+        "android_client_info": {
+          "package_name": "com.example.adhe_ai_trae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152954861659-7k6b98fiam3laf8e76kaqkt6u0qe5s6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adhe_ai_trae",
+            "certificate_hash": "d5118241d7666c9a88d41a66774d17156c69b93e"
+          }
+        },
+        {
+          "client_id": "152954861659-2kp0689ue2361b65nin5035ulnc2g30u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCr3w8Sr5XaFT-a-Cpq6RqL75zqp1vgPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152954861659-2kp0689ue2361b65nin5035ulnc2g30u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
