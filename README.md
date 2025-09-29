@@ -87,7 +87,9 @@ Adhesion complications after surgery are a significant medical challenge. Early 
 
 Contributing
 
-We welcome contributions! Please fork the repository, create a new branch, and submit a pull request.
+We welcome contributions! Please fork the repository, create a new branch, and submit a pull request.![WhatsApp Image 2025-09-28 at 07 06 07_18680848](https://github.com/user-attachments/assets/00a28e53-eba7-48c7-b604-54bd23472d12)
+
+
 
 
 
