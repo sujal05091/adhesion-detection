@@ -77,3 +77,21 @@ Adhesion complications after surgery are a significant medical challenge. Early 
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/adhesion-ai.git
+2.Open the mobile app folder in Flutter/Android Studio
+
+3.Configure Firebase credentials in the app
+
+4.Run the app on an emulator or physical device
+
+4.Access the web app via Firebase Hosting URL
+
+Contributing
+
+We welcome contributions! Please fork the repository, create a new branch, and submit a pull request.
+
+
+
+
+
+
+
