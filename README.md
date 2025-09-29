@@ -87,7 +87,28 @@ Adhesion complications after surgery are a significant medical challenge. Early 
 
 Contributing
 
-We welcome contributions! Please fork the repository, create a new branch, and submit a pull request.![WhatsApp Image 2025-09-28 at 07 06 07_18680848](https://github.com/user-attachments/assets/00a28e53-eba7-48c7-b604-54bd23472d12)
+We welcome contributions! Please fork the repository, create a new branch, and submit a pull request.
+
+screen shot of app 
+
+
+![WhatsApp Image 2025-09-28 at 07 06 07_18680848](https://github.com/user-attachments/assets/00a28e53-eba7-48c7-b604-54bd23472d12)
+
+![WhatsApp Image 2025-09-28 at 07 02 35_6c7417da](https://github.com/user-attachments/assets/a1051029-c415-4ff6-8fc0-f022ef6f6378)
+
+![WhatsApp Image 2025-09-28 at 07 02 36_6d15d02b](https://github.com/user-attachments/assets/d9418dd7-8b2b-4d81-97e5-cff94ebdb993)
+
+
+model trained
+
+![WhatsApp Image 2025-09-28 at 07 12 03_cee8ebc6](https://github.com/user-attachments/assets/065abb29-e51e-4db6-a93c-56c13a0b26b9)
+
+logo of app
+![WhatsApp Image 2025-09-28 at 07 29 31_02c9e2b6](https://github.com/user-attachments/assets/d0f82ab8-d76f-4ef2-b46f-8cf39696fdc2)
+
+
+
+
 
 
 
